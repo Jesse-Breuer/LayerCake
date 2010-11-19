@@ -1,0 +1,6 @@
+layercake by Jesse Breuer is licensed under the gnu public license
+http://www.gnu.org/licenses/gpl.html
+
+phpquery by tobiasz cudnik is licensed under the mit license
+http://www.opensource.org/licenses/mit-license.php
+
